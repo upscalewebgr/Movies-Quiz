@@ -1,0 +1,7 @@
+<resources>
+    <!--// DEFAULT ΤΙΜΕΣ-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textsize">9sp</dimen>
+    <dimen name="msgsize">18sp</dimen>
+</resources>

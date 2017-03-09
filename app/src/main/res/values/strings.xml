@@ -1,0 +1,9 @@
+<resources>
+    <string name="AppName">Ατάκες</string>
+    <string name="ChartBoostSign">cc55bad522985d6eeb56c6dfcda586579e09e779</string>
+    <string name="ChartBoostID">57f3895704b01651198d7b52</string>
+    <string name="buttonHintsString">Βοήθεια </string>
+    <string name="textCurrentQuestion">ΕΡΩΤΗΣΗ</string>
+    <string name="textNextQuestion">Επόμενο Quiz</string>
+    <string name="textCheckInternet">Ελέγξτε την σύνδεση σας στο διαδίκτυο</string>
+</resources>

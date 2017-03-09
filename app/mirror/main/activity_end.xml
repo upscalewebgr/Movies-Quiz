@@ -1,0 +1,9 @@
+<screen>
+    <!--<_content layout="@layout/activity_end">-->
+        <!--&lt;!&ndash; TextView Examples:-->
+        <!--<textViewMessage text="@string/string_resource" />-->
+        <!--<textViewMessage text="Text literal" textSize="14sp" /> &ndash;&gt;-->
+        <!--<textViewMessage />-->
+        <!--<textViewScore />-->
+    <!--</_content>-->
+</screen>

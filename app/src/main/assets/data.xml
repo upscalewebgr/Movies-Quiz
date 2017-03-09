@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<qt><n>1</n>
+		<movie>Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ</movie>
+		<title>Δεν αφήσανε λαμπόγυαλο για λαμπόγυαλο</title>
+        <first>Νίκος Κυριακίδης</first><second>Σταύρος Ξενίδης</second><third>Λάμπρος Κωσταντάρας</third><correct>3</correct>
+    </qt>
+    <qt><n>2</n>
+		<movie>Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ</movie>
+		<title>To νού σας ρεμάλια</title>
+        <first>Λάμπρος Κωσταντάρας</first><second>Τσουκαλάς Νίκος</second><third>Ξενίδης Σταύρος</third><correct>1</correct>
+    </qt>
+    <qt><n>3</n>
+		<movie>Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ</movie>
+		<title>Άντε βρε πατέρα να πιεις μόνος σου νερο,κι άμα θα ρθεις φέρε μου κι εμένα ένα ποτήρι</title>
+        <first>Θανάσης Παπαδόπουλος</first><second>Λάμπρος Κωσταντάρας</second><third>Πάυλος Λιάρος</third><correct>3</correct>
+    </qt>
+    <qt><n>4</n>
+        <movie>Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ</movie>
+        <title>Λυπάμαι πάρα πολύ άλλη φορά θα σε εξυπηρετήσω, τώρα... ευχαρίστως ναι, αλλά όχι</title>
+        <first>Λάμπρος Κωσταντάρας</first><second>Νίκος Τσουκαλάς</second><third>Θανάσης Παπαδόπουλος"</third><correct>1</correct>
+    </qt>
+	<qt><n>5</n>
+        <movie>Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ</movie>
+        <title>Μπράβο αντίσκηνο το κάναμε, να φάμε από κάτω</title>
+        <first>Νίκος Κυριακίδης</first><second>Σταύρος Ξενίδης</second><third>Λάμπρος Κωσταντάρας</third><correct>3</correct>
+    </qt>
+	<qt><n>6</n>
+        <movie>ΜΙΑ ΤΡΕΛΛΗ ΤΡΕΛΛΗ ΣΑΡΑΝΤΑΡΑ</movie>
+        <title>Αλλα έτσι ειναι, αρχίζεις μουσίτσα, γίνεσαι μούσα και καταλήγεις μουσείο</title>
+        <first>Τασώ Καβαδία"</first><second>Ρένα Βλαχοπούλου</second><third>Μέλπω Ζαρόκωστα</third><correct>2</correct>
+    </qt>
+	<qt><n>7</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Δε γεννήθηκε ακόμα ο άνθρωπος που θα με δουλέψει εμένα"</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Θανάσης Μυλωνάς</second><third>Νίκος Ρίζος</third><correct>1</correct>
+    </qt>
+	<qt><n>8</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Μη μου κάνεις το τραίνο της Μαλακάσας εμένα, γιατί θα σε κάνω καροτσάκι</title>
+        <first>Θανάσης Μυλωνάς</first><second>Γιώργος Βελέντζας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>9</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Ρε καμαρώστε έναν Κιτσάρα τέσσερα πατώματα στο υπόγειο</title>
+        <first>Νίκος Ρίζος"</first><second>Θανάσης Μυλωνάς</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>10</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Κασεράκι; γιατι έτρωγες και στο χωριό σου κασεράκι, που κόβατε τον πατσά με το ψαλίδι</title>
+        <first>Νίκος Φέρμας</first><second>Κώστας Χατζηχρήστος</second><third>Κώστας Δούκας</third><correct>2</correct>
+    </qt>
+	<qt><n>11</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Με συγχωρείτε μαντάμ! Δεν ήταν για σας! Μου στείλανε ένα τηλεγράφημα και το 'στειλα πίσω</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Γιώργος Βελέντζας</second><third>Κώστας Δούκας</third><correct>1</correct>
+    </qt>
+	<qt><n>12</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Ψυχραμενοι ειστε; Βλεπω μια ελαφρα ψυχρασια μεταξυ σας, ποτε ψυχραστηκατε;</title>
+        <first>Νίκος Ρίζος</first><second>Κώστας Δούκας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>13</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Α ψωνίσατε βέβαια. Πετάς τα λεφτάς στα παλιοκούτια και δεν κοιτάς να πάρεις ένα σακί φακές να πουλάμε"</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Γιώργος Βελέντζας</second><third>Κώστας Δούκας</third><correct>1</correct>
+    </qt>
+	<qt><n>14</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Μπρρρρρρρ ξεγοφιασμένο στραβάδι</title>
+        <first>Κώστας Δούκας</first><second>Νίκος Φέρμας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>15</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Θα ξανάρθω Ζήκο, θα ξανάρθω να καθαρισουμε Ζήκο</title>
+        <first>Κώστας Δούκας</first><second>Γιώργος Βελέντζας</second><third>Νίκος Ρίζος</third><correct>3</correct>
+    </qt>
+
+	<qt><n>16</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Θα σε πετάξουν οι πιτσιρικάδες ντοματιά που θα σε πάει καπνός</title>
+        <first>Νίκος Ρίζος</first><second>Γιώργος Βελέντζας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>17</n>
+        <movie>ΜΙΑ ΙΤΑΛΙΔΑ ΑΠ ΤΗΝ ΚΥΨΕΛΗ</movie>
+        <title>Ψηλός, όμορφος, βουτυράτος με μια αψηλή, τσιριμπίμ, τσιριμπόμ</title>
+        <first>Αθηνόδωρος Προύσαλης</first><second>Δημήτρης Νικολαίδης</second><third>Αλέκος Αλεξανδράκης</third><correct>1</correct>
+    </qt>
+	<qt><n>18</n>
+        <movie>ΚΑΤΙ ΚΟΥΡΑΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ</movie>
+        <title>Δεν την χούφτωσες;!!! Θα το μετανιώσεις. Χούφτωσ’ την, χούφτωστ’ την</title>
+        <first>Λάμπρος Κωσταντάρας</first><second>Δημήτρης Καλιβωκας</second><third>Διονύσης Παπαγιαννόπουλος</third><correct>3</correct>
+    </qt>
+	<qt><n>19</n>
+        <movie>Ο ΦΑΝΟΥΡΗΣ ΚΑΙ ΤΟ ΣΟΙ ΤΟΥ</movie>
+        <title>Πρωινό το λέτε σεις αυτό στην Αμερική; γιατί εμείς εδώ το λέμε βδομαδιάτικο</title>
+        <first>Νίκος Φέρμας</first><second>Κώστας Δούκας</second><third>Μίμης Φωτόπουλος</third><correct>3</correct>
+    </qt>
+	<qt><n>20</n>
+        <movie>Ο ΚΛΕΑΡΧΟΣ Η ΜΑΡΙΝΑ ΚΙ Ο ΚΟΝΤΟΣ</movie>
+        <title>Φέρτε μου τη Μαρίνα να τη σκίσω</title>
+        <first>Βασίλης Αυλωνίτης</first><second>Γιάννης Βογιατζής</second><third>Νίκος Ρίζος</third><correct>3</correct>
+    </qt>
+	<qt><n>21</n>
+        <movie>Η ΑΛΙΚΗ ΣΤΟ ΝΑΥΤΙΚΟ</movie>
+        <title>Εδώ είναι αντιτορπιλικό, δεν είναι το Λύκειο των Ελληνίδων</title>
+        <first>Κώστας Βουτσάς</first><second>Λάμπρος Κωνσταντάρας</second><third>Δημήτρης Παπαμιχαήλ</third><correct>2</correct>
+    </qt>
+	<qt><n>22</n>
+        <movie>Η ΔΕ ΓΥΝΗ ΝΑ ΦΟΒΕΙΤΑΙ ΤΟΝ ΑΝΤΡΑ</movie>
+        <title>Εγώ είμαι στρατιωτικός και τα λέω τσεκουράτα</title>
+        <first>Γιώργος Κωνσταντίνου</first><second>Σταύρος Ξενίδης</second><third>Λουκιανός Ροζάν</third><correct>2</correct>
+    </qt>
+	<qt><n>23</n>
+        <movie>Η ΔΕ ΓΥΝΗ ΝΑ ΦΟΒΕΙΤΑΙ ΤΟΝ ΑΝΤΡΑ</movie>
+        <title>Βάρδα ρε Καραβάγγο, ειδοποία ρε ότι ξαναπιάνουμε δουλειά</title>
+        <first>Λουκιανός Ροζάν</first><second>Δημήτρης Καλιβωκάς</second><third>Κώστας Δούκας</third><correct>3</correct>
+    </qt>
+	<qt><n>24</n>
+        <movie>Η ΔΕ ΓΥΝΗ ΝΑ ΦΟΒΕΙΤΑΙ ΤΟΝ ΑΝΤΡΑ</movie>
+        <title>Εγώ, παίρνω το καπελλάκι μου και φεύγω</title>
+        <first>Σταύρος Ξενίδης</first><second>Λουκιανός Ροζάν</second><third>Γιώργος Κωνσταντίνου"</third><correct>3</correct>
+    </qt>
+	<qt><n>25</n>
+        <movie>ΚΟΡΙΤΣΙΑ ΓΙΑ ΦΙΛΗΜΑ</movie>
+        <title>Έχω και κότερο, πάμε μια βόλτα;</title>
+		<first>Γιάννης Βογιατζής</first><second>Ανδρέας Ντούζος</second><third>Κώστας Βουτσάς</third> <correct>3</correct>
+    </qt>
+	<qt><n>26</n>
+        <movie>ΥΠΑΡΧΕΙ ΚΑΙ ΦΙΛΟΤΙΚΟ</movie>
+        <title>Οι γυναίκες και οι πολιτικοί Κωστάκη πρέπει να προσέχουν πολύ τις περιφέρειές τους</title>
+        <first>Λάμπρος Κωνσταντάρας</first><second>Ανδρέας Ντούζος</second><third>Γιώργος Γαβριηλίδης</third><correct>1</correct>
+    </qt>
+	<qt><n>27</n>
+        <movie>ΥΠΑΡΧΕΙ ΚΑΙ ΦΙΛΟΤΙΚΟ</movie>
+        <title>Φάγαμε, φάγανε, φάγανε...</title>
+        <first>Διονύσης Παπαγιαννόπουλος</first><second>Ανδρέας Ντούζος</second><third>Λάμπρος Κωνσταντάρας</third><correct>2</correct>
+    </qt>
+	<qt><n>28</n>
+        <movie>ΑΧ ΑΥΤΗ Η ΓΥΝΑΙΚΑ ΜΟΥ</movie>
+        <title>Εδώ μέσα γίνονται Σόδομα και Γόμορρα</title>
+        <first>Σαπφώ Νοταρά</first><second>Αλίκη Βουγιουκλάκη</second><third>Δέσποινα Στυλιανοπούλου</third><correct>1</correct>
+    </qt>
+	<qt><n>29</n>
+        <movie>ΑΧ ΑΥΤΗ Η ΓΥΝΑΙΚΑ ΜΟΥ</movie>
+        <title>Δεν μας φτάνουν τα μισθά μας</title>
+        <first>Αλίκη Βουγιουκλάκη</first><second>Μαρία Κωνσταντάρου</second><third>Σαπφώ Νοταρά</third><correct>3</correct>
+    </qt>
+	<qt><n>30</n>
+        <movie>ΤΟ ΘΥΜΑ</movie>
+        <title>Αυτό θα πάει για τρακόσιε χιλιάδε δίσκοι</title>
+        <first>Αθηνόδωρος Προυσάλης</first><second>Αλέκος Αλεξαντράκης</second><third>Νίκος Τσούκας</third><correct>3</correct>
+    </qt>
+	<qt><n>31</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Τι το στρίβεις ρε το ξένου το μουστάκι;</title>
+        <first>Παντελής Ζερβός</first><second>Κώστας Χατζηχρήστος</second><third>Λαυρέντης Διανέλλος</third><correct>1</correct>
+    </qt>
+	<qt><n>32</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Αν δεν τον ξεκάνεις εσύ, κακομοίρη μ΄,τότενες θα σε ξεκάνει αυτούνος</title>
+        <first>Ζανίνο</first><second>Παντελής Ζερβός</second><third>Λαυρέντης Διανέλλος</third><correct>2</correct>
+    </qt>
+	<qt><n>33</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Παίζουνε τα παιδάκια με μυδραλυοβόλα?</title>
+        <first>Ντίνος Ηλιόπουλος</first><second>Παναγιώτης Καραβουσιάνος</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>34</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Και χράτς τον άτιμο</title>
+        <first>Παντελής Ζερβός</first><second>Παναγιώτης Καραβουσιάνος</second><third>Ντίνος Ηλιόπουλος</third><correct>1</correct>
+    </qt>
+	<qt><n>35</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Κι αμα εκεί που δεν τον ξέρω μου την πέσει με την ψαλίδα και με κόψει φέτες, φέτες σα γαλεό;</title>
+        <first>Ντίνος Ηλιόπουλος</first><second>Κώστας Χατζηχρήστος</second><third>Πέτρος Πανταζής</third><correct>2</correct>
+    </qt>
+	<qt><n>36</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Α τον άτιμο το κανε το ξενοδοχείο Γιβραλτάρ</title>
+        <first>Παντελής Ζερβός</first><second>Πέτρος Πανταζής</second><third>Ντίνος Ηλιόπουλος</third><correct>3</correct>
+    </qt>
+	<qt><n>37</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Το πλατάνι δεν θα το ντραπείς;</title>
+        <first>Τζόλι Γαρμπή</first><second>Αλέκα Στραγηγού</second><third>Νίκη Λινάρδου</third><correct>1</correct>
+    </qt>
+	<qt><n>38</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Πρόσεχε γιατι αμα αρπάξει το μουστάκι θα καώ σαν κουκουνάρι</title>
+        <first>Ντίνος Ηλιόπουλος</first><second>Κώστας Χατζηχρήστος</second><third>Παντελής Ζερβός</third><correct>2</correct>
+    </qt>
+	<qt><n>40</n>
+        <movie>ΜΑΚΡΥΚΩΣΤΑΙΟΙ ΚΑΙ ΚΟΝΤΟΓΙΩΡΓΗΔΕΣ</movie>
+        <title>Ποιον έλατο παιδάκι μου, εγω παώ για τα κυπαρίσια τωρα</title>
+        <first>Λαυρέντης Διανέλλος</first><second>Ντίνος Ηλιόπουλος</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>41</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Δε με ξερεις, δε σε ξέρω, υποφέρεις και υποφέρω</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Αλέκος Τζανετάκος</second><third>Θανάσης Βέγγος</third><correct>1</correct>
+    </qt>
+	<qt><n>42</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Πειναγανε και τα παιδάκια σου ρε?</title>
+        <first>Διονύσης Παπαγιαννόπουλος</first><second>Κώστας Χατζηχρήστος</second><third>Σταύρος Ξενίδης</third><correct>2</correct>
+    </qt>
+	<qt><n>43</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Εσύ το πάς μακριά και εγώ βιάζομαι</title>
+        <first>Θανάσης Βέγγος</first><second>Αλέκος Τζανετάκος</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>44</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Αμα τους χώσουμε ολους μέσα θα παραλήσει και το εμπόριο</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Θανάσης Βέγγος</second><third>Παναγιώτης Καραβουσιάνος</third><correct>1</correct>
+    </qt>
+	<qt><n>45</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Έβγαλε ένα μάτσο χαρτονομίσματα και τα μοίραζε σαν να έδινε καλαμπόκι στις κότες</title>
+        <first>Σταύρος Ξενίδης</first><second>Αλέκος Τζανετάκος</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>46</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Ξέρεις τι ξύλο θέλει αυτός κύριε αστυνόμε; Ξέρεις τι ξύλο θέλει</title>
+        <first>Θανάσης Βέγγος</first><second>Κώστας Χατζηχρήστος</second><third>Λαυρέντης Διανέλλος</third><correct>2</correct>
+    </qt>
+	<qt><n>47</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Τρέχα, ν' αρχίσω να τρέχω κι εγώ</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Αλέκος Τζανετάκος</second><third>Παντελής Ζερβός</third><correct>1</correct>
+    </qt>
+	<qt><n>48</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Μη μου κανεις εμένα χειραψίες</title>
+        <first>Κώστας Δούκας</first><second>Γιώργος Βελέντζας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>49</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Ορίστε, ο κύριος Ορέστης: ζορίστηκε, ζορίστηκε, είπε κάτι</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Παναγιώτης Καραβουσιάνος</second><third>Διονύσης Παπαγιαννόπουλος</third><correct>1</correct>
+    </qt>
+	<qt><n>50</n>
+        <movie>Ο ΗΛΙΑΣ ΤΟΥ  16ου</movie>
+        <title>Να είμαστε και λογικοί, μην είμαστε και πλεονέκτες</title>
+        <first>Διονύσης Παπαγιαννόπουλος</first><second>Κώστας Χατζηχρήστος</second><third>Σταύρος Ξενίδης</third><correct>2</correct>
+    </qt>
+	<qt><n>51</n>
+        <movie>Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ</movie>
+        <title>Κέρδισες Νότη μου; Την παίρνεις. Έχασα Νότη μου; Την παίρνεις.Όλα κι όλα τίμια πράγματα</title>
+        <first>Μίσιος Χαντάς</first><second>Μίμης Φωτόπουλος</second><third>Νίκος Σταυρίδης</third><correct>3</correct>
+    </qt>
+	<qt><n>52</n>
+        <movie>Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ</movie>
+        <title>Θα γίνει το ολοκαύτωμα του ζαρκαδίου</title>
+        <first>Χρυσάνθη Λιάπη</first><second>Γεωργία Βασιλειάδου</second><third>Γκόλφω Μπίνη</third><correct>2</correct>
+    </qt>
+	<qt><n>53</n>
+        <movie>Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ</movie>
+        <title>Πνεύμα και ηθική</title>
+        <first>Βασίλης Αυλωνίτης</first><second>Ντίνος Ηλιόπουλος</second><third>Μίμης Φωτόπουλος</third><correct>1</correct>
+    </qt>
+	<qt><n>54</n>
+        <movie>Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ</movie>
+        <title>Είσαι και αξούριστη πανάθεμα σε</title>
+        <first>Μίμης Φωτόπουλος</first><second>Βασίλης Αυλωνίτης</second><third>Νίκος Σταυρίδης</third><correct>3</correct>
+    </qt>
+	<qt><n>55</n>
+        <movie>Ο ΘΗΣΑΥΡΟΣ ΤΟΥ ΜΑΚΑΡΙΤΗ</movie>
+        <title>Βιβλία πασατέμπο δεν έχουμε</title>
+        <first>Βασίλης Αυλωνίτης</first><second>Νίκος Ρίζος</second><third>Νίκος Φλώκας</third><correct>2</correct>
+    </qt>
+	<qt><n>56</n>
+        <movie>ΤΟ ΞΥΛΟ ΒΓΗΚΕ ΑΠ ΤΟΝ ΠΑΡΑΔΕΙΣΟ</movie>
+        <title>Του Θεμιστοκλέους, βεβαίως, βεβαίως</title>
+        <first>Χρήστος Τσαγανέας</first><second>Ορέστης Μακρής</second><third>Νίκος Φλώκας</third><correct>1</correct>
+    </qt>
+	<qt><n>57</n>
+        <movie>ΤΟ ΞΥΛΟ ΒΓΗΚΕ ΑΠ ΤΟΝ ΠΑΡΑΔΕΙΣΟ</movie>
+        <title>Πράσινες, κόκκινες πεταλούδες και κίτρινες</title>
+        <first>Άννα Ματζουράνη</first><second>Κατερίνα Γώγου</second><third>Αλίκη Βουγιουκλάκη</third><correct>3</correct>
+    </qt>
+	<qt><n>58</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Έννοια σου και θα σου κάνω κάτι εγώ να ησυχάσεις για πάντα</title>
+        <first>Σταύρος Ξενίδης</first><second>Γιάννης Γκιωνάκης</second><third>Θανάσης Βέγγος</third><correct>3</correct>
+    </qt>
+	<qt><n>59</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Που πας ρε Τρύφωνα το ξέρει η μανουλα σου</title>
+        <first>Θανάσης Βέγγος</first><second>Δημήτρης Νικολαΐδης</second><third>Νίκος Φέρμας</third><correct>1</correct>
+    </qt>
+	<qt><n>60</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Αμαν ήρθες εδώ για ξάπλες Τρύφωνα</title>
+        <first>Δημήτρης Νικολαΐδης</first><second>Γιώργος Γαβριηλίδης</second><third>Θανάσης Βέγγος</third><correct>3</correct>
+    </qt>
+	<qt><n>61</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Μέγας είσαι κύριε. Άνθρωπος ήρθε μοτοσακό έφυγε</title>
+        <first>Θανάσης Βέγγος</first><second>Γιάννης Βογιατζής</second><third>Γιώργος Γαβριηλίδης</third><correct>1</correct>
+    </qt>
+	<qt><n>62</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Δεν πας πρώτα σπίτι σου να φιλήσεις τη γυναίκα σου και τα παιδιά σου;</title>
+        <first>Γιώργος Νικολαΐδης</first><second>Νίκος Φέρμας</second><third>Θανάσης Βέγγος</third><correct>1</correct>
+    </qt>
+	<qt><n>63</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Σήκω ρεζίλι της κάτω Πλατανιάς</title>
+        <first>Θανάσης Βέγγος</first><second>Δημήτρης Νικολαΐδης</second><third>Ράλλης Αγγελίδη</third><correct>1</correct>
+    </qt>
+	<qt><n>64</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Τι να το κάνω το φαράσι; Κλέφτες είναι αυτοί, δεν είναι λεμονόκουπες</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Γιώργος Γαβριηλίδης</second><third>Θανάσης Βέγγος</third><correct>1</correct>
+    </qt>
+	<qt><n>65</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Τίποτα πιο εκλεκτό</title>
+        <first>Γιώργος Γαβριηλίδης</first><second>Νίκος Φέρμας</second><third>Γιάννης Βογιατζής</third><correct>2</correct>
+    </qt>
+	<qt><n>66</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Παλικάρι το λες εσυ αυτό; αμαν ήτανε έτσι τα παλικάρια</title>
+        <first>Γιώργος Γαβριηλίδης</first><second>Γιάννης Βογιατζής</second><third>Θανάσης Βέγγος</third><correct>3</correct>
+    </qt>
+	<qt><n>67</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Τα ξινά σ αρέσουνε?, οχι γιατί αν δε σ΄ αρέσουνε, στο φτιάχνω και αλμυρό εγώ</title>
+        <first>Θανάσης Βέγγος</first><second>Γιάννης Βογιατζής</second><third>Σταύρος Νικολαΐδης</third><correct>1</correct>
+    </qt>
+	<qt><n>68</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Τι να σου κάνουν δύο γυναίκες μόνες; Μπορούν να σου κάνουν τίποτε δύο γυναίκες μόνες;</title>
+        <first>Γκιζέλα Ντάλι</first><second>Νίκη Λινάρδου</second><third>Μαρίκα Κρεβατά</third><correct>2</correct>
+    </qt>
+	<qt><n>69</n>
+        <movie>ΠΟΛΥΤΕΧΝΙΤΗΣ ΚΙ ΕΡΗΜΟΣΠΙΤΗΣ</movie>
+        <title>Ωρε παπάρα που θα δουλέψει</title>
+        <first>Θανάσης Βέγγος</first><second>Νίκος Φέρμας</second><third>Γιάννης Βογιατζής</third><correct>1</correct>
+    </qt>
+	<qt><n>70</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Τι του λιμπίστηκες του κομοδίνου; Εμείς αυτούς στο χωριό τους πνίγουμε στο νεροχύτη για να μη χαλάσει η ράτσα</title>
+        <first>Δημήτρης Νικολαΐδης</first><second>Νίκος Φέρμας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>71</n>
+        <movie>ΟΙ ΚΛΗΡΟΝΟΜΟΙ</movie>
+        <title>Εσύ δε θές κουρείο, θες να πας να γραφτείς στο γεωργικό συνεταιρισμό, αυτό δεν είναι μούσι είναι λιβάδι</title>
+        <first>Κώστας Χατζηχρήστος</first><second>Περικλής Χριστοφορίδης</second><third>Μίσιος Χάντας</third><correct>1</correct>
+    </qt>
+	<qt><n>72</n>
+        <movie>ΟΙ ΚΛΗΡΟΝΟΜΟΙ</movie>
+        <title>Παιδί μου εσύ, παιδάκι μου εσυ</title>
+        <first>Περικλής Χριστοφορίδης</first><second>Γιώργος Βελέντζας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>73</n>
+        <movie>ΟΙ ΚΛΗΡΟΝΟΜΟΙ</movie>
+        <title>Εγω εδώ μέσα σπουδάζω. Αντε μην ανέβω πάνω και γινει της ανωμαλίας</title>
+        <first>Κώστας Βουτσάς</first><second>Ντίνος Ηλιόπουλος</second><third>Νικήτας Πλατής</third><correct>1</correct>
+    </qt>
+	<qt><n>74</n>
+        <movie>Η ΧΑΡΤΟΠΑΙΧΤΡΑ</movie>
+        <title>Έτσι μου ’ρχεται να πάω να κλειστώ σε μια λέσχη, να μη σε βλέπω</title>
+        <first>Σαπφώ Νοταρά</first><second>Νάντα Τζάκα</second><third>Ρένα Βλαχοπούλου</third><correct>3</correct>
+    </qt>
+	<qt><n>75</n>
+        <movie>Ο ΦΑΦΛΑΤΑΣ</movie>
+        <title>Δε ξέρω απο που κρατά η σκούφια της παππού αλλά απο πόδι σκίζει</title>
+        <first>Γιώργος Μοσχίδης</first><second>Δημήτρης Μπισλάνης</second><third>Λάμπρος Κωνσταντάρας</third><correct>3</correct>
+    </qt>
+	<qt><n>76</n>
+        <movie>Η ΠΑΡΙΖΙΑΝΑ</movie>
+        <title>Εγώ καλλιτέχνης γεννήθηκα... και καλλιτέχνης θα πεθάνω από τήν πείνα</title>
+        <first>Χρόνης Εξαρχάκος</first><second>Βαγγέλης Σειληνός</second><third>Γιώργος Γαβριηλίδης</third><correct>1</correct>
+    </qt>
+	<qt><n>77</n>
+        <movie>ΓΑΜΠΡΟΣ ΑΠ ΤΟ ΛΟΝΔΙΝΟ</movie>
+        <title>Ρε πατέρα έχει η Αγγλία, Καλαμάτα;</title>
+        <first>Διονύσης Παπαγιαννόπουλος</first><second>Γιώργος Τσιτσόπουλος</second><third>Βαγγέλης Ιωαννίδης</third><correct>3</correct>
+    </qt>
+	<qt><n>78</n>
+        <movie>ΕΝΑ ΕΞΥΠΝΟ ΜΟΥΤΡΟ</movie>
+        <title>Και τι είναι ο Ιορδάνης που θέλει βενζίνη, μοτοσακό;</title>
+        <first>Κώστας Βουτσάς</first><second>Νίκος Ρίζος</second><third>Βασίλης Αυλωνίτης</third><correct>1</correct>
+    </qt>
+	<qt><n>79</n>
+        <movie>ΕΝΑ ΕΞΥΠΝΟ ΜΟΥΤΡΟ</movie>
+        <title>Ρε τι γίνεται εδώ; Τι το κάναμε το μαγαζί μποστάνι</title>
+        <first>Βασίλης Αυλωνίτης</first><second>Νίκος Ρίζος</second><third>Νίκος Φέρμας</third><correct>1</correct>
+    </qt>
+	<qt><n>80</n>
+        <movie>Η ΚΑΛΠΙΚΗ ΛΥΡΑ</movie>
+        <title>Α κατάλαβα είσαι από εκείνες που ντύνονται επί πιστώσει και γδύνονται τις μετρητοίς</title>
+        <first>Δημήτρης Χορν</first><second>Βασίλης Λογοθετίδης</second><third>Μίμης Φωτόπουλος</third><correct>3</correct>
+    </qt>
+	<qt><n>81</n>
+        <movie>ΤΑ ΚΙΤΡΙΝΑ ΓΑΝΤΙΑ</movie>
+        <title>Κι εγω αγαπούσα μια 19 χρόνια αλλα δε με ήθελε</title>
+        <first>Νίκος Σταυρίδης</first><second>Μίμης Φωτόπουλος</second><third>Γιάννης Γκιωνάκης</third><correct>3</correct>
+    </qt>
+	<qt><n>82</n>
+        <movie>ΤΑ ΚΙΤΡΙΝΑ ΓΑΝΤΙΑ</movie>
+        <title>Τωρα εσεις, ποτε προλαβατε, ποτε τα 'πατε, ενας Θεος το ξερει</title>
+        <first>Κώστας Δούκας</first><second>Γιώργος Μπέλλος</second><third>Νίκος Σταυρίδης</third><correct>3</correct>
+    </qt>
+	<qt><n>83</n>
+        <movie>ΤΑ ΚΙΤΡΙΝΑ ΓΑΝΤΙΑ</movie>
+        <title>Πορτοκαλάδα θέτε; από πορτοκάλια;</title>
+        <first>Παντελής Ζερβός</first><second>Γιάννης Γκιωνάκης</second><third>Κώστας Δούκας</third><correct>2</correct>
+    </qt>
+	<qt><n>84</n>
+        <movie>ΓΑΜΠΡΟΣ ΑΠ ΤΟ ΛΟΝΔΙΝΟ</movie>
+        <title>Οξω ρε, θα μας φάνε τα σκυλιά ρε</title>
+        <first>Κώστας Βουτσάς</first><second>Βαγγέλης Ιωαννίδης</second><third>Διονύσης Παπαγιαννόπουλος</third><correct>3</correct>
+    </qt>
+	<qt><n>85</n>
+        <movie>Ο ΜΙΚΕΣ ΠΑΝΤΡΕΥΕΤΑΙ</movie>
+        <title>Σας χαιρέτησα, δε σας χαιρέτησα τι κάνετε, καλά ευχαριστώ</title>
+        <first>Περικλής Χριστοφορίδης</first><second>Γιάννης Γκιωνάκης</second><third>Γιάννης Βογιατζής</third><correct>3</correct>
+    </qt>
+	<qt><n>86</n>
+        <movie>ΔΕΣΠΟΙΝΙΣ ΔΙΕΥΘΥΝΤΗΣ</movie>
+        <title>Εδώ μέσα δεν είναι γραφείο, είναι αντρολίβαδο</title>
+        <first>Νίτσα Μαρούδα</first><second>Ελένη Ζαφειρίου</second><third>Τζένη Καρέζη</third><correct>3</correct>
+    </qt>
+	<qt><n>87</n>
+        <movie>ΔΕΣΠΟΙΝΙΣ ΔΙΕΥΘΥΝΤΗΣ</movie>
+        <title>Γυρίσατεεεε?</title>
+        <first>Τζένη Καρέζη</first><second>Δέσποινα Στυλιανοπούλου</second><third>Νίτσα Μαρούδα</third><correct>1</correct>
+    </qt>
+	<qt><n>88</n>
+        <movie>ΤΑ ΚΙΤΡΙΝΑ ΓΑΝΤΙΑ</movie>
+        <title>Μουστάκια, εμείς οι δυο όπως πάμε, θα φάμε τα μουστάκια μας. Κι επειδή εγώ δεν έχω, ό,τι φάμε, θα το φάμε απ´ το δικό σου</title>
+        <first>Μίμης Φωτόπουλος</first><second>Κώστας Δούκας</second><third>Νίκος Σταυρίδης</third><correct>3</correct>
+    </qt>
+	<qt><n>89</n>
+        <movie>Η ΓΥΝΑΙΚΑ ΜΟΥ ΤΡΕΛΑΘΗΚΕ</movie>
+        <title>Θέλω να φάω μικρές πράσινες μολόχες</title>
+        <first>Γιάννης Βογιατζής</first><second>Σμαρούλα Γιούλη</second><third>Λάμπρος Κωνσταντάρας</third><correct>3</correct>
+    </qt>
+	<qt><n>90</n>
+        <movie>ΑΛΟΙΜΟΝΟ ΣΤΟΥΣ ΝΕΟΥΣ</movie>
+        <title>Χράτσα χρούτσα, με τη μασέλα μας κι οτι καταφέρουμε</title>
+        <first>Γιώργος Βελέντζας</first><second>Δημήτρης Χόρν</second><third>Σπύρος Μουσούρης</third><correct>3</correct>
+    </qt>
+	<qt><n>91</n>
+        <movie>ΧΤΥΠΟΚΑΡΔΙΑ ΣΤΑ ΘΡΑΝΙΑ</movie>
+        <title>Τι ωραιο χαρτονομισμα! Σαν ηλιοβασιλεμα ειναι</title>
+        <first>Βαγγέλης Ιωαννίδης</first><second>Γιώργος Κωνσταντινου</second><third>Αλέκος Αλεξανδράκης</third><correct>3</correct>
+    </qt>
+	<qt><n>92</n>
+        <movie>ΘΑ ΣΕ ΚΑΝΩ ΒΑΣΙΛΙΣΣΑ</movie>
+        <title>Άμα δε σε κάνω βασίλισσα, να πέσει το ταβάνι να με πλάκώσει</title>
+        <first>Γιάννης Βογιατζής</first><second>Θανάσης Βέγγος</second><third>Κώστας Δούκας</third><correct>2</correct>
+    </qt>
+	<qt><n>93</n>
+        <movie>ΘΑ ΣΕ ΚΑΝΩ ΒΑΣΙΛΙΣΣΑ</movie>
+        <title>Πολλά δολάρια, ποτάμι ρέει το χρήμα στην Αμερική. Όποια πέτρα κι αν σηκώσεις βρίσκεις από κάτω δολάρια</title>
+        <first>Λάμπρος Κωνσταντάρας</first><second>Γιάννης Βογιατζής</second><third>Θανάσης Βέγγος</third><correct>1</correct>
+    </qt>
+	<qt><n>94</n>
+        <movie>Η ΒΙΛΑ ΤΩΝ ΟΡΓΙΩΝ</movie>
+        <title>Τι θα το κάνουμε εδώ μέσα, Αμέρικαν bar</title>
+        <first>Διονύσης Παπαγιαννόπουλος</first><second>Γιάννης Βογιατζής</second><third>Ανδρέας Ντούζος</third><correct>1</correct>
+    </qt>
+	<qt><n>95</n>
+        <movie>Η ΒΙΛΑ ΤΩΝ ΟΡΓΙΩΝ</movie>
+        <title>Ζάβαλος</title>
+        <first>Ντίνος Ηλιόπουλος</first><second>Λάμπρος Κωνσταντάρας</second><third>Ανδρέας Ντούζος</third><correct>2</correct>
+    </qt>
+	<qt><n>96</n>
+        <movie>Η ΒΙΛΑ ΤΩΝ ΟΡΓΙΩΝ</movie>
+        <title>Αυτό το καταραμένο καρνέ, είναι ατομική βόμβα. Μπορεί να γκρεμίσει τα στηρίγματα της κοινωνίας</title>
+        <first>Λάμπρος Κωνσταντάρας</first><second>Χρήστος Πάρλας</second><third>Γιάννης Βογιατζής</third><correct>1</correct>
+    </qt>
+	<qt><n>97</n>
+        <movie>ΜΙΑ ΕΛΛΗΝΙΔΑ ΣΤΟ ΧΑΡΕΜΙ</movie>
+        <title>Βαγγέλη πόρτα</title>
+        <first>Βαγγέλης Σειληνός</first><second>Χρόνης Εξαρχάκος</second><third>Δημήτρης Καλιβωκάς</third><correct>2</correct>
+    </qt>
+	<qt><n>98</n>
+        <movie>ΜΙΑ ΕΛΛΗΝΙΔΑ ΣΤΟ ΧΑΡΕΜΙ</movie>
+        <title>Τράβα Ρένα! Τράβα μαλλί ανεβαίνουμε</title>
+        <first>Γιώργος Γαβριηλίδης</first><second>Μαρία Ιωαννίδου</second><third>Χρόνης Εξαρχάκος</third><correct>3</correct>
+    </qt>
+	<qt><n>99</n>
+        <movie>Ο ΓΟΗΣ</movie>
+        <title>Κατίνα, σαλαμάκι</title>
+        <first>Γιώργος Γαβριηλίδης</first><second>Κώστας Βουτσάς</second><third>Χρόνης Εξαρχάκος</third><correct>2</correct>
+    </qt>
+	<qt><n>100</n>
+        <movie>ΞΥΠΝΑ ΒΑΣΙΛΗ</movie>
+        <title>Σε κόκορα έρχεσαι χάθηκε ο κόσμος να φέρεις λίγο καλαμπόκι;</title>
+        <first>Γιώργος Κωνσταντίνου</first><second>Γιώργος Τσιτσόπουλος</second><third>Σωτήρης Μουστάκας</third>Χρήστος Δοξαράς<correct>1</correct>
+    </qt>
+	<qt><n>101</n>
+        <movie>ΕΝΑΣ ΒΛΑΚΑΣ ΚΑΙ ΜΙΣΟΣ</movie>
+        <title>Βλάκας εσύ, βλάκας εγώ θα κάνουμε ενα βλακοζεύγαρο</title>
+        <first>Χρήστος Ευθυμίου</first><second>Γιώργος Τσιτσόπουλος</second><third>Ανδρέας Μπάρκουλης</third><correct>1</correct>
+    </qt>
+	<qt><n>102</n>
+        <movie>Η ΘΕΙΑ ΑΠ ΤΟ ΣΙΚΑΓΟ</movie>
+        <title>Παππά λεγότανε, αλλά φαίνεται πως εκεί κάτω όπου βρουν παπά τον κάνουν Πάπα</title>
+        <first>Θόδωρος Δημήτριεφ</first><second>Ορέστης Μακρής</second><third>Παντελής Ζερβός</third><correct>2</correct>
+    </qt>
+	<qt><n>103</n>
+        <movie>Η ΘΕΙΑ ΑΠ ΤΟ ΣΙΚΑΓΟ</movie>
+        <title>Η ανηψιά μου κι εγώ είμαστε πάρα πολύ στενοχωρημένες γι’ αυτό που συνέβη. Είμαστε very very πώς το λέτε εδώ στην Ελλάδα; Χολοσκασμένες</title>
+        <first>Γεωργία Βασιλειάδου</first><second>Νίκη Παπαδάτου</second><third>Τζένη Καρέζη</third><correct>1</correct>
+    </qt>
+	<qt><n>104</n>
+        <movie>Η ΘΕΙΑ ΑΠ ΤΟ ΣΙΚΑΓΟ</movie>
+        <title>Τι να σου πω παιδάκι μου; Εγώ φταίω που κάθομαι και μιλάω με τον πισινό μου</title>
+        <first>Παντελής Ζερβός</first><second>Στέφανος Στρατηγός</second><third>Ορέστης Μακρής</third><correct>3</correct>
+    </qt>
+	<qt><n>105</n>
+        <movie>ΟΙ ΘΑΛΛΑΣΙΕΣ ΟΙ ΧΑΝΤΡΕΣ</movie>
+        <title>Αυτή μέχρι και το μουστάκι θα σε βάλει να ξυρίσεις</title>
+        <first>Γιάννης Βογιατζής</first><second>Φαίδων Γεωργίτσης</second><third>Κώστας Βουτσάς</third><correct>1</correct>
+    </qt>
+	<qt><n>106</n>
+        <movie>ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ</movie>
+        <title>Άκουσον μεν, τσάκισον δε</title>
+        <first>Παντελής Ζερβός</first><second>Δημήτρης Ντούζος</second><third>Ντίνος Ηλιόπουλος</third><correct>3</correct>
+    </qt>
+	<qt><n>107</n>
+        <movie>ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ</movie>
+        <title>Κυρία μου, εγώ δεν ήρθα εδώ για να εισπράξω ψέματα. Για να πουλήσω ήρθα</title>
+        <first>Ντίνος Ηλιόπουλος</first><second>Περικλής Χριστοφορίδης</second><third>Άγγελος Μαυρόπουλος</third><correct>1</correct>
+    </qt>
+	<qt><n>108</n>
+        <movie>ΜΠΕΤΟΒΕΝ ΚΑΙ ΜΠΟΥΖΟΥΚΙ</movie>
+        <title>Ποτέ δε περιμενα πως τα τριάντα αγύρια της προδοσίας θα ήταν κεφτεδάκια</title>
+        <first>Μίμης Φωτόπουλος</first><second>Νίκος Σταυρίδης</second><third>Σωτήρης Μουστάκας</third><correct>2</correct>
+    </qt>
+	<qt><n>109</n>
+        <movie>ΤΙ 30, ΤΙ 40, ΤΙ 50</movie>
+        <title>Α τον σκοροφαγωμένο</title>
+        <first>Λάμπρος Κωνσταντάρας</first><second>Γιώργος Γαβριηλίδης</second><third>Διονύσης Παπαγιαννόπουλος</third><correct>1</correct>
+    </qt>
+	<qt><n>110</n>
+        <movie>ΓΟΡΓΟΝΕΣ ΚΑΙ ΜΑΓΚΕΣ</movie>
+        <title>Να σου κάνω εγώ τσαχπινιά να ζαλιστεί η μασχάλη σου</title>
+        <first>Χρόνης Εξαρχάκος</first><second>Φαίδων Γεωργίτσης</second><third>Μάρθα Καραγιάννη</third><correct>1</correct>
+    </qt>
+	<qt><n>111</n>
+        <movie>Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ</movie>
+        <title>Ναι κορνάρισε, να φύγουν οι κατσαρίδες απ τις γωνίες</title>
+        <first>Βαγγέλης Ιωαννίδης</first><second>Γιώργος Γαβριηλίδης</second><third>Λάμπρος Κωνσταντάρας</third><correct>3</correct>
+    </qt>
+	<qt><n>112</n>
+        <movie>ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ</movie>
+        <title>Και μου λες να πληρώσω και τον ΙΚΑ. Ποιος είναι αυτός ο ΙΚΑΣ, δεν τον πληρώνω εγώ</title>
+        <first>Κώστας Δούκας</first><second>Νίκος Φέρμας</second><third>Κώστας Χατζηχρήστος</third><correct>3</correct>
+    </qt>
+	<qt><n>113</n>
+        <movie>ΥΠΑΡΧΕΙ ΚΑΙ ΦΙΛΟΤΙΜΟ</movie>
+        <title>Μαυρο στον Μαυρογιαλουρο</title>
+        <first>Γιώργος Γαβριηλίδης</first><second>Διονύσης Παπαγιαννόπουλος</second><third>Ανδρέας Ντούζος</third><correct>3</correct>
+    </qt>
+	<qt><n>114</n>
+        <movie>Η ΠΑΡΙΖΙΑΝΑ</movie>
+        <title>Σούζυ τρώς, και ψεύδεσαι και τρώς</title>
+        <first>Ρένα Βλαχοπούλου</first><second>Ανθή Γούναρη</second><third>Ρένα Πασχαλίδου</third><correct>1</correct>
+    </qt>
+	<qt><n>115</n>
+        <movie>ΤΡΕΙΣ ΚΟΥΚΛΕΣ ΚΙ ΕΓΩ</movie>
+        <title>Ο έρωτας είναι σαν τις αμοιβάδες. Γι' αυτό πρέπει να είναι αμοιβαίος</title>
+        <first>Ντίνος Ηλιόπουλος</first><second>Παντελής Ζερβός</second><third>Θανάσης Βέγγος</third><correct>1</correct>
+    </qt>
+	<qt><n>116</n>
+        <movie>ΦΩΝΑΖΕΙ Ο ΚΛΕΦΤΗΣ</movie>
+        <title>Μυλος γίνεται στον οργανισμό.Ο κλέψας, του κλέψαντος, τω κλέψαντι, ω παλιοκλέψαντες και παλιοκλεφταρέοι</title>
+        <first>Γιάννης Βογιατζής</first><second>Δημήτρης Ντούζος</second><third>Ντίνος Ηλιόπουλος</third><correct>3</correct>
+    </qt>
+    <qt><n>117</n>
+        <movie>Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ</movie>
+        <title>Ωραία! Έχουμε μια μοτοσυκλέτα στην τραπεζαρία, να βάλουμε κι από ένα τζιπ στις κρεβατοκάμαρες και να το κάνουμε Σώμα Αμέσου Δράσεως</title>
+        <first>Λάμπρος Κωνσταντάρας</first><second>Θανάσης Παπαδόπουλος</second><third>Βαγγέλης Ιωαννίδης</third><correct>1</correct>
+    </qt>
+</questions>

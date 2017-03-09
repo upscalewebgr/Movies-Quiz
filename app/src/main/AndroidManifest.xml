@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="greek.quiz">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:icon="@drawable/ic_launcer"
+        android:label="@string/AppName"
+        android:supportsRtl="true"
+        android:allowBackup = "true"
+        android:theme="@android:style/Theme.Holo.NoActionBar">
+        <activity android:name=".IntroActivity">
+
+            <intent-filter android:label="@string/AppName">
+
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.MAIN" />
+                  <category android:name="android.intent.category.LAUNCHER"
+                   android:screenOrientation="portrait" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".StartActivity"
+            android:label="StartActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".Main"
+            android:label="Main"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".EndActivity"
+            android:label="EndActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.chartboost.sdk.CBImpressionActivity"
+            android:excludeFromRecents="true"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+    </application>
+
+</manifest>
